@@ -60,3 +60,5 @@ Now uploads from the frontend will be processed as if you ran the `watch.py` scr
   * TW_ACCESS_TOKEN
   * TW_ACCESS_TOKEN_SECRET
   populate the .env with the values
+
+https://www.youtube.com/LiamOttley/watch?v=43MdhyYl2hY
